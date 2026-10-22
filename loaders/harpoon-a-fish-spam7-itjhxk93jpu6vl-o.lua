@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AssemblyLook/loaders/main/loaders/harpoon-a-fish-spam7-itjhxk93jpu6vl.lua"))()
