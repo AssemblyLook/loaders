@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AssemblyLook/loaders/main/loaders/the-strongest-battlegrounds-spam7-wr8xabvtk6www9.lua"))()
