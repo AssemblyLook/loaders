@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AssemblyLook/loaders/main/loaders/tribes-3v3-spam7-qfqae3ypmjb0kg.lua"))()
